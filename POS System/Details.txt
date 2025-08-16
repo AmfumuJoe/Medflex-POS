@@ -1,0 +1,5 @@
+    Username: pharmacist / Password: pharma123
+
+    Username: technician / Password: tech123
+
+    Username: admin / Password: admin123
